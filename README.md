@@ -16,9 +16,9 @@ A simple web application that showcases adorable cat photos, built to practice H
    ```bash
    git clone https://github.com/pulemojatau/cat-photo-app.git
 
-## Navigate to the project directory:
+## Navigate to the project directory
 
-   ```bash
+    ```bash
    cd cat-photo-app
 
 ## Open index.html in your preferred web browser to view the app.
