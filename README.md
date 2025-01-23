@@ -30,7 +30,8 @@ A simple web application that showcases adorable cat photos, built to practice H
 - Browse through various cat photos and enjoy!
 
 ## Screenshot
-![My Image](https://github.com/pulemojatau/CatPhotoAp/blob/main/html.jpeg)
+<img src="https://raw.githubusercontent.com/pulemojatau/CatPhotoApp/main/html.jpg" alt="My Image" width="300"/>
+
 
 
 ## Contributing
