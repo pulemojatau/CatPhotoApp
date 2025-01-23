@@ -1,6 +1,8 @@
 # Cat Photo App
 
-A simple web application that showcases adorable cat photos, built to practice HTML fundamentals.
+A simple web application that showcases adorable cat photos, built to practice HTML fundamentals. 
+Here is the link to this guided project [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/).
+
 
 ## Table of Contents
 
