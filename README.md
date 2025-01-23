@@ -16,24 +16,24 @@ A simple web application that showcases adorable cat photos, built to practice H
    ```bash
    git clone https://github.com/pulemojatau/cat-photo-app.git
 
-2. Navigate to the project directory:
+## Navigate to the project directory:
 
    ```bash
    cd cat-photo-app
-   
-3. Open index.html in your preferred web browser to view the app.
+
+## Open index.html in your preferred web browser to view the app.
 
 
-4. Usage
+## Installation Usage
 
 - Open the `index.html` file in a web browser to view the Cat Photo App.
 - Browse through various cat photos and enjoy!
 
-5. Screenshot
+## Screenshot
 ![My Image](https://github.com/pulemojatau/CatPhotoAp/blob/main/html.jpeg)
 
 
-6. Contributing
+## Contributing
    
   1. Fork the repository.
   2. Create a new branch (`git checkout -b feature-branch`).
@@ -41,7 +41,7 @@ A simple web application that showcases adorable cat photos, built to practice H
   4. Push to the branch (`git push origin feature-branch`).
   5. Create a new Pull Request.
 
-7. License
+## License
    This project has no license      
 
 
