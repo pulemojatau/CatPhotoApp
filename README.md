@@ -32,7 +32,7 @@ Here is the link to this guided project [Responsive Web Design](https://www.free
 - Browse through various cat photos and enjoy!
 
 ## Screenshot
-<img src="https://raw.githubusercontent.com/pulemojatau/CatPhotoApp/main/html.jpg" alt="My Image" width="300"/>
+<img src="https://raw.githubusercontent.com/pulemojatau/CatPhotoApp/main/html.jpg" alt="My Image" width="350" height="400"/>
 
 
 
